@@ -11,6 +11,7 @@
 		2E4ED40226BAED7C00D32E4C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4ED40126BAED7C00D32E4C /* ContentView.swift */; };
 		2E4ED40426BAED7E00D32E4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E4ED40326BAED7E00D32E4C /* Assets.xcassets */; };
 		2E4ED40726BAED7E00D32E4C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E4ED40626BAED7E00D32E4C /* Preview Assets.xcassets */; };
+		2E4ED41126BAEDEE00D32E4C /* MainMenuDesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4ED41026BAEDEE00D32E4C /* MainMenuDesign.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		2E4ED40326BAED7E00D32E4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E4ED40626BAED7E00D32E4C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2E4ED40826BAED7E00D32E4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E4ED41026BAEDEE00D32E4C /* MainMenuDesign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuDesign.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				2E4ED3FF26BAED7C00D32E4C /* LoginPageDesignApp.swift */,
 				2E4ED40126BAED7C00D32E4C /* ContentView.swift */,
+				2E4ED41026BAEDEE00D32E4C /* MainMenuDesign.swift */,
 				2E4ED40326BAED7E00D32E4C /* Assets.xcassets */,
 				2E4ED40826BAED7E00D32E4C /* Info.plist */,
 				2E4ED40526BAED7E00D32E4C /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E4ED40226BAED7C00D32E4C /* ContentView.swift in Sources */,
+				2E4ED41126BAEDEE00D32E4C /* MainMenuDesign.swift in Sources */,
 				2E4ED40026BAED7C00D32E4C /* LoginPageDesignApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
