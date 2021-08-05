@@ -72,7 +72,7 @@ struct ContentView: View {
             .padding(.vertical)
         }
         .background(Color.black).edgesIgnoringSafeArea(.all)
-        //.preferredColorScheme(.dark)
+        .preferredColorScheme(.dark)
     }
 }
 
